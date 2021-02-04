@@ -1,8 +1,8 @@
 (function() {
     "use strict";
     var f = {
-        aServer: "https://www.fzdeng.com",
-        logServer: "https://www.fzdeng.com",
+        aServer: "https://www.ranqibio.com",
+        logServer: "https://www.ranqibio.com",
         prefix: "2415689770463175004",
         adunit: "",
         sync: "true"
